@@ -28,6 +28,7 @@
     }
   ],
   "start_url": "/pokepicker/",
+  "scope": "/pokepicker/",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
